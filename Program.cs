@@ -1,5 +1,6 @@
 //https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio-code
 //Tutorial: Create a minimal API with ASP.NET Core
+//use this http://localhost:5127/swagger
 
 using NSwag.AspNetCore;
 using Microsoft.EntityFrameworkCore;
