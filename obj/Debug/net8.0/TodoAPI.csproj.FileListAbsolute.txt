@@ -44,3 +44,4 @@
 /Users/guillermocampos/TodoAPI2/TodoAPI/obj/Debug/net8.0/TodoAPI.csproj.AssemblyReference.cache
 /Users/guillermocampos/TodoAPI2/TodoAPI/obj/Debug/net8.0/TodoAPI.MvcApplicationPartsAssemblyInfo.cs
 /Users/guillermocampos/TodoAPI2/TodoApi/obj/Debug/net8.0/TodoAPI.csproj.Up2Date
+/Users/guillermocampos/TodoAPI2/TodoAPI/obj/Debug/net8.0/TodoAPI.sourcelink.json
